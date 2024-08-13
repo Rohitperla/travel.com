@@ -1,7 +1,7 @@
 {
   
   "Indian-tours":[
-    [
+
       { "id": 1,
         "name": "Golden Triangle Tour",
         "description": "Experience the rich history and culture of India with a 6-day tour covering Delhi, Agra, and Jaipur.",
@@ -637,9 +637,8 @@
       }
     ]
     
-  ],
+  ,
   "International-tours":[
-    [
       { "id":1,
         "name": "Paris and French Riviera Tour",
         "description": "Explore the iconic city of Paris and the luxurious French Riviera with a 7-day tour.",
@@ -1296,7 +1295,6 @@
         "location":"United states"
       }
     ]
-    
-  ]
+
   
 }
