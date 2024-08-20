@@ -6,6 +6,7 @@
         "name": "Golden Triangle Tour",
         "description": "Experience the rich history and culture of India with a 6-day tour covering Delhi, Agra, and Jaipur.",
         "price": 15000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -20,6 +21,7 @@
         "name": "Kerala Backwaters Tour",
         "description": "Relax on a houseboat and explore the serene backwaters of Kerala. This 5-day tour includes visits to Alleppey, Kumarakom, and Cochin.",
         "price": 18000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Houseboat Stay",
@@ -34,6 +36,7 @@
         "name": "Rajasthan Heritage Tour",
         "description": "Discover the royal heritage of Rajasthan with an 8-day tour of Udaipur, Jodhpur, Jaisalmer, and Jaipur.",
         "price": 25000,
+        "type":"Indian",
         "duration": "8 Days",
         "inclusions": [
           "Heritage Accommodations",
@@ -49,6 +52,7 @@
         "name": "Goa Beach Tour",
         "description": "Enjoy the sun, sand, and sea with a 4-day tour of Goa's famous beaches.",
         "price": 12000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Beach Resort Stay",
@@ -63,6 +67,7 @@
         "name": "North East India Tour",
         "description": "Explore the natural beauty of North East India with a 7-day tour covering Shillong, Kaziranga, and Gangtok.",
         "price": 22000,
+        "type":"Indian",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -77,6 +82,7 @@
         "name": "Leh-Ladakh Adventure",
         "description": "Experience the rugged beauty of Leh-Ladakh with a 7-day adventure tour. Visit Pangong Lake, Nubra Valley, and more.",
         "price": 28000,
+        "type":"Indian",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -91,6 +97,7 @@
         "name": "Andaman & Nicobar Islands Tour",
         "description": "Explore the pristine beaches, coral reefs, and lush greenery of the Andaman & Nicobar Islands.",
         "price": 20000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Beach Resort Stay",
@@ -105,6 +112,7 @@
         "name": "Backwaters and Beaches of Kerala",
         "description": "Enjoy a unique blend of tranquil backwaters and scenic beaches with a 6-day tour of Kerala.",
         "price": 22000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Houseboat Stay",
@@ -119,6 +127,7 @@
         "name": "Temple Tour of South India",
         "description": "Embark on a spiritual journey with a 10-day temple tour covering Tamil Nadu and Karnataka.",
         "price": 25000,
+        "type":"Indian",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -133,6 +142,7 @@
         "name": "Wildlife Safari in Jim Corbett National Park",
         "description": "Get close to nature with a 3-day wildlife safari in Jim Corbett National Park.",
         "price": 15000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Resort Stay",
@@ -147,6 +157,7 @@
         "name": "Darjeeling & Sikkim Tour",
         "description": "Explore the lush tea gardens and scenic mountain views of Darjeeling and Sikkim with a 6-day tour.",
         "price": 20000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -161,6 +172,7 @@
         "name": "Rann of Kutch Festival Tour",
         "description": "Witness the vibrant culture of Gujarat with a 4-day tour of the Rann of Kutch during the festival season.",
         "price": 18000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -175,6 +187,7 @@
         "name": "Meghalaya Cave Exploration",
         "description": "Discover the hidden caves of Meghalaya with a 5-day adventure tour. Explore the caves of Siju, Mawsmai, and Liat Prah.",
         "price": 19000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -189,6 +202,7 @@
         "name": "Heritage Tour of Varanasi",
         "description": "Immerse yourself in the spiritual atmosphere of Varanasi with a 4-day tour. Visit the Ghats, temples, and the famous Kashi Vishwanath Temple.",
         "price": 12000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -203,6 +217,7 @@
         "name": "Majestic Himachal Tour",
         "description": "Explore the beauty of Himachal Pradesh with an 8-day tour covering Shimla, Manali, and Dharamshala.",
         "price": 22000,
+        "type":"Indian",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -217,6 +232,7 @@
         "name": "Gujarat Wildlife and Cultural Tour",
         "description": "Experience the unique wildlife and culture of Gujarat with a 7-day tour covering Gir National Park, Somnath, and Ahmedabad.",
         "price": 24000,
+        "type":"Indian",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -231,6 +247,7 @@
         "name": "Kashmir Valley Tour",
         "description": "Discover the scenic beauty of Kashmir with a 6-day tour covering Srinagar, Gulmarg, and Pahalgam.",
         "price": 23000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -245,6 +262,7 @@
         "name": "Mysore and Coorg Heritage Tour",
         "description": "Explore the rich heritage and natural beauty of Mysore and Coorg with a 5-day tour.",
         "price": 18000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -260,6 +278,7 @@
         "name": "Puri and Konark Temple Tour",
         "description": "Visit the famous Jagannath Temple in Puri and the Sun Temple in Konark with a 4-day tour.",
         "price": 15000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -274,6 +293,7 @@
         "name": "Andhra Pradesh Temple Tour",
         "description": "Embark on a 6-day spiritual journey covering the famous temples of Andhra Pradesh, including Tirupati and Srisailam.",
         "price": 20000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -288,6 +308,7 @@
         "name": "Hampi and Badami Heritage Tour",
         "description": "Explore the ancient ruins of Hampi and Badami with a 5-day heritage tour.",
         "price": 17000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -302,6 +323,7 @@
         "name": "Lakshadweep Islands Tour",
         "description": "Discover the pristine beaches and marine life of Lakshadweep with a 7-day island tour.",
         "price": 28000,
+        "type":"Indian",
         "duration": "7 Days",
         "inclusions": [
           "Island Resort Stay",
@@ -316,6 +338,7 @@
         "name": "Khajuraho and Orchha Tour",
         "description": "Explore the UNESCO World Heritage sites of Khajuraho and Orchha with a 4-day cultural tour.",
         "price": 16000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -330,6 +353,7 @@
         "name": "Sundarbans Mangrove Safari",
         "description": "Experience the unique ecosystem of the Sundarbans with a 3-day mangrove safari.",
         "price": 14000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -344,6 +368,7 @@
         "name": "Ajanta and Ellora Caves Tour",
         "description": "Visit the ancient rock-cut caves of Ajanta and Ellora with a 3-day heritage tour.",
         "price": 13000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -358,6 +383,7 @@
         "name": "Pushkar Camel Fair Tour",
         "description": "Witness the vibrant Pushkar Camel Fair with a 3-day cultural tour.",
         "price": 12000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -372,6 +398,7 @@
         "name": "Madhya Pradesh Wildlife Tour",
         "description": "Explore the wildlife of Madhya Pradesh with a 6-day tour covering Kanha, Bandhavgarh, and Pench National Parks.",
         "price": 25000,
+        "type":"Indian",
         "duration": "6 Days",
         "inclusions": [
           "Resort Stay",
@@ -386,6 +413,7 @@
         "name": "Nainital and Jim Corbett Tour",
         "description": "Enjoy the scenic beauty of Nainital and the thrill of a wildlife safari in Jim Corbett National Park with a 5-day tour.",
         "price": 18000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -400,6 +428,7 @@
         "name": "Ooty and Coonoor Hill Station Tour",
         "description": "Relax in the cool climate of Ooty and Coonoor with a 4-day hill station tour.",
         "price": 14000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -414,6 +443,7 @@
         "name": "Delhi Agra Jaipur Tour",
         "description": "Explore the historic cities of Delhi, Agra, and Jaipur with a 5-day Golden Triangle tour.",
         "price": 16000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -429,6 +459,7 @@
         "name": "Alleppey Houseboat Tour",
         "description": "Experience the tranquil backwaters of Alleppey with a 2-day houseboat tour.",
         "price": 10000,
+        "type":"Indian",
         "duration": "2 Days",
         "inclusions": [
           "Houseboat Stay",
@@ -443,6 +474,7 @@
         "name": "Jaisalmer Desert Safari",
         "description": "Embark on a desert safari in Jaisalmer with a 3-day tour, including camel rides and cultural performances.",
         "price": 15000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Desert Camp Stay",
@@ -457,6 +489,7 @@
         "name": "Manali Adventure Tour",
         "description": "Experience the thrill of adventure activities in Manali with a 4-day tour, including rafting, paragliding, and trekking.",
         "price": 18000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -471,6 +504,7 @@
         "name": "Rishikesh Yoga and Meditation Retreat",
         "description": "Rejuvenate your mind and body with a 7-day yoga and meditation retreat in Rishikesh.",
         "price": 20000,
+        "type":"Indian",
         "duration": "7 Days",
         "inclusions": [
           "Ashram Stay",
@@ -485,6 +519,7 @@
         "name": "Shimla and Kufri Hill Station Tour",
         "description": "Escape to the hills with a 3-day tour of Shimla and Kufri, enjoying scenic views and local sightseeing.",
         "price": 13000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -499,6 +534,7 @@
         "name": "Kanha National Park Safari",
         "description": "Explore the dense forests and wildlife of Kanha National Park with a 3-day safari tour.",
         "price": 17000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Resort Stay",
@@ -513,6 +549,7 @@
         "name": "Varanasi Spiritual Tour",
         "description": "Experience the spiritual essence of Varanasi with a 3-day tour, including Ganga Aarti and temple visits.",
         "price": 14000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -527,6 +564,7 @@
         "name": "Munnar Tea Plantation Tour",
         "description": "Visit the lush tea plantations of Munnar with a 3-day tour, including tea tasting and plantation walks.",
         "price": 15000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -541,6 +579,7 @@
         "name": "Amritsar and Wagah Border Tour",
         "description": "Explore the vibrant city of Amritsar and witness the Wagah Border ceremony with a 3-day tour.",
         "price": 12000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -555,6 +594,7 @@
         "name": "Mount Abu Hill Station Tour",
         "description": "Escape to the serene hill station of Mount Abu with a 3-day tour, including visits to Nakki Lake and Dilwara Temples.",
         "price": 13000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -569,6 +609,7 @@
         "name": "Coorg Coffee Plantation Tour",
         "description": "Explore the coffee plantations of Coorg with a 3-day tour, including plantation walks and coffee tasting.",
         "price": 16000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -583,6 +624,7 @@
         "name": "Shillong and Cherrapunjee Tour",
         "description": "Discover the natural beauty of Shillong and Cherrapunjee with a 5-day tour, including visits to waterfalls and caves.",
         "price": 19000,
+        "type":"Indian",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -597,6 +639,7 @@
         "name": "Kaziranga National Park Safari",
         "description": "Experience the thrill of a wildlife safari in Kaziranga National Park with a 3-day tour.",
         "price": 17000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Resort Stay",
@@ -611,6 +654,7 @@
         "name": "Hyderabad Heritage Tour",
         "description": "Explore the historic city of Hyderabad with a 4-day heritage tour, including visits to Charminar, Golconda Fort, and Salar Jung Museum.",
         "price": 15000,
+        "type":"Indian",
         "duration": "4 Days",
         "inclusions": [
           "Accommodation",
@@ -625,6 +669,7 @@
         "name": "Goa Carnival Tour",
         "description": "Experience the vibrant Goa Carnival with a 3-day tour, including beach parties and cultural events.",
         "price": 14000,
+        "type":"Indian",
         "duration": "3 Days",
         "inclusions": [
           "Accommodation",
@@ -639,10 +684,11 @@
     
   ,
   "International-tours":[
-      { "id":1,
+      { "id":46,
         "name": "Paris and French Riviera Tour",
         "description": "Explore the iconic city of Paris and the luxurious French Riviera with a 7-day tour.",
         "price": 75000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -653,10 +699,11 @@
         "image": "https://images.squarespace-cdn.com/content/v1/6170a7fb9cfbe613f5de8eb7/1662834162787-50AJDZTGX00M6LZCJKG5/GettyImages-1250971698.jpg",
         "location":"France"
       },
-      { "id":2,
+      { "id":47,
         "name": "Swiss Alps Adventure",
         "description": "Experience the breathtaking beauty of the Swiss Alps with a 6-day adventure tour, including skiing and mountain trekking.",
         "price": 80000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -668,10 +715,11 @@
         "location":"Switzerland"
       },
       {
-        "id":3,
+        "id":48,
         "name": "Rome and Tuscany Heritage Tour",
         "description": "Discover the rich history and culture of Rome and Tuscany with an 8-day heritage tour.",
         "price": 90000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -682,10 +730,11 @@
         "image": "https://cdn.britannica.com/75/75775-131-1D05DD74/Colosseum-Rome.jpg",
         "location":"Italy"
       },
-      { "id":4,
+      { "id":49,
         "name": "Australia East Coast Adventure",
         "description": "Explore the stunning East Coast of Australia with a 10-day adventure tour, including Sydney, Gold Coast, and Great Barrier Reef.",
         "price": 120000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -696,10 +745,11 @@
         "image": "https://www.gap360.com/tpl/lib/img/private/media/noosa-ultimate-east-coast-52f6-week.jpeg",
         "location":"Sydney Australia"
       },
-      { "id":5,
+      { "id":50,
         "name": "New Zealand South Island Explorer",
         "description": "Discover the natural wonders of New Zealand's South Island with a 7-day explorer tour.",
         "price": 100000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -710,10 +760,11 @@
         "image": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2021/09/Intrepid-Travel-IntrepidTravel-NZ-SouthIsland-Blue-Pools-Haast-Pass-ss_1231278604.jpg",
         "location":"New Zealand"
       },
-      { "id":6,
+      { "id":51,
         "name": "Japan Cultural Tour",
         "description": "Experience the unique culture of Japan with a 10-day tour covering Tokyo, Kyoto, and Hiroshima.",
         "price": 95000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -724,10 +775,11 @@
         "image": "https://www.japanshoreexcursions.com/wp-content/uploads/Japanese-traditional-culture-facts.jpg",
         "location":"Japan"
       },
-      { "id":7,
+      { "id":52,
         "name": "Dubai Luxury Tour",
         "description": "Indulge in luxury with a 5-day tour of Dubai, including desert safari, Burj Khalifa, and shopping experiences.",
         "price": 70000,
+        "type":"International",
         "duration": "5 Days",
         "inclusions": [
           "5-Star Accommodation",
@@ -738,10 +790,11 @@
         "image": "https://meconstructionnews.com/wp-content/uploads/2022/11/Dubai-City_1000x600.jpg",
         "location":"Dubai"
       },
-      { "id":8,
+      { "id":53,
         "name": "Iceland Northern Lights Tour",
         "description": "Witness the magical Northern Lights with a 7-day tour of Iceland, including geysers, waterfalls, and hot springs.",
         "price": 110000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -753,10 +806,11 @@
         "location":"Iceland"
       },
       { 
-        "id":"9",
+        "id":54,
         "name": "South Africa Safari Tour",
         "description": "Experience the thrill of a wildlife safari in South Africa with a 10-day tour covering Kruger National Park and Cape Town.",
         "price": 130000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -768,10 +822,11 @@
         "location":"Africa"
       },
       { 
-        "id":10,
+        "id":55,
         "name": "Maldives Beach Escape",
         "description": "Relax on the pristine beaches of the Maldives with a 6-day luxury beach escape.",
         "price": 85000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Beach Resort Stay",
@@ -783,10 +838,11 @@
         "location": "Sri lanka"
       },
       {
-        "id":11,
+        "id":56,
         "name": "Greek Islands Cruise",
         "description": "Explore the beautiful Greek Islands with a 7-day luxury cruise, including Santorini, Mykonos, and Crete.",
         "price": 105000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Cruise Accommodation",
@@ -800,10 +856,11 @@
         "location":"Santorini"
       },
       {
-        "id":12,
+        "id":57,
         "name": "Egypt Nile Cruise",
         "description": "Discover the ancient wonders of Egypt with a 7-day Nile River cruise, including visits to the Pyramids and Luxor.",
         "price": 90000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Cruise Accommodation",
@@ -814,10 +871,11 @@
         "image": "https://www.egypttoursportal.com/images/2018/09/Nile-Cruises-Egypt-Tours-Portal.jpg",
         "location":"Egypt"
       },
-      {  "id":13,
+      {  "id":58,
         "name": "Peru and Machu Picchu Adventure",
         "description": "Embark on an unforgettable adventure in Peru with a 7-day tour covering Lima, Cusco, and Machu Picchu.",
         "price": 100000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -829,10 +887,11 @@
         "location":"Peru"
       },
       {
-        "id":14,
+        "id":59,
         "name": "Thailand Beaches and Temples",
         "description": "Explore the vibrant culture of Thailand with a 10-day tour covering Bangkok, Chiang Mai, and Phuket.",
         "price": 85000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -844,10 +903,11 @@
         "location":"Thailand"
       },
       {
-        "id":15,
+        "id":60,
         "name": "New York and Washington D.C. Tour",
         "description": "Discover the iconic landmarks of New York and Washington D.C. with a 6-day tour.",
         "price": 80000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -859,10 +919,11 @@
         "location":"United states"
       },
       {
-        "id":16,
+        "id":61,
         "name": "Kenya and Tanzania Safari",
         "description": "Experience the thrill of the Great Migration with a 10-day safari tour covering Kenya and Tanzania.",
         "price": 150000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Luxury Safari Lodge Stay",
@@ -874,10 +935,11 @@
         "location":"Africa"
       },
       {
-        "id":17,
+        "id":62,
         "name": "Bali and Ubud Wellness Retreat",
         "description": "Rejuvenate your mind and body with a 7-day wellness retreat in Bali and Ubud.",
         "price": 90000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Luxury Resort Stay",
@@ -889,10 +951,11 @@
         "location":"bali Indonesia"
       },
       {
-        "id":18,
+        "id":63,
         "name": "Vietnam and Cambodia Cultural Tour",
         "description": "Explore the rich history and culture of Vietnam and Cambodia with an 8-day tour.",
         "price": 85000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -904,10 +967,11 @@
         "location":"Asia"
       },
       {
-        "id":19,
+        "id":64,
         "name": "Canada Rockies and Vancouver Tour",
         "description": "Discover the stunning landscapes of the Canadian Rockies and Vancouver with an 8-day tour.",
         "price": 110000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -919,10 +983,11 @@
         "location":"United states"
       },
       {
-        "id":20,
+        "id":65,
         "name": "Alaska Cruise and Denali National Park",
         "description": "Explore the wilderness of Alaska with a 7-day cruise and Denali National Park tour.",
         "price": 120000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Cruise Accommodation",
@@ -934,10 +999,11 @@
         "location":"United states"
       },
       {
-        "id":21,
+        "id":66,
         "name": "Turkey and Cappadocia Adventure",
         "description": "Experience the unique landscapes of Turkey with an 8-day tour, including Istanbul, Cappadocia, and Pamukkale.",
         "price": 95000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -950,10 +1016,11 @@
 
       },
       {
-        "id":22,
+        "id":67,
         "name": "Hawaii Island Hopping Tour",
         "description": "Discover the beauty of Hawaii with a 7-day island hopping tour, including Maui, Oahu, and Big Island.",
         "price": 110000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -965,10 +1032,11 @@
         "location":"United states"
       },
       {
-        "id":23,
+        "id":68,
         "name": "Scandinavia Northern Lights Tour",
         "description": "Witness the Northern Lights in Scandinavia with a 7-day tour covering Norway, Sweden, and Finland.",
         "price": 120000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -980,10 +1048,11 @@
         "location":"Norway"
       },
       {
-        "id":24,
+        "id":69,
         "name": "Brazil and Argentina Highlights",
         "description": "Explore the highlights of Brazil and Argentina with a 10-day tour, including Rio de Janeiro and Buenos Aires.",
         "price": 130000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -995,10 +1064,11 @@
         "location":"United states"
       },
       {
-        "id":25,
+        "id":70,
         "name": "Morocco Sahara Desert Adventure",
         "description": "Embark on an adventure in the Sahara Desert with an 8-day tour of Morocco, including Marrakech and Fes.",
         "price": 90000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -1010,10 +1080,11 @@
         "location":"Africa"
       },
       {
-        "id":26,
+        "id":71,
         "name": "Antarctica Expedition Cruise",
         "description": "Embark on a once-in-a-lifetime expedition to Antarctica with a 12-day cruise, exploring icy landscapes and wildlife.",
         "price": 300000,
+        "type":"International",
         "duration": "12 Days",
         "inclusions": [
           "Cruise Accommodation",
@@ -1025,10 +1096,11 @@
         "location":"United states"
       },
       {
-        "id":27,
+        "id":72,
         "name": "Great Wall of China and Beijing Tour",
         "description": "Explore the wonders of China with a 7-day tour, including the Great Wall, Forbidden City, and Summer Palace.",
         "price": 85000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -1040,10 +1112,11 @@
         "location":"china"
       },
       {
-        "id":28,
+        "id":73,
         "name": "Ireland Castles and Cliffs Tour",
         "description": "Discover the castles and cliffs of Ireland with a 6-day tour, including Dublin, Galway, and the Cliffs of Moher.",
         "price": 95000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -1055,10 +1128,11 @@
         "location":"Ireland"
       },
       {
-        "id":29,
+        "id":74,
         "name": "New Zealand North Island Explorer",
         "description": "Explore the stunning landscapes of New Zealand's North Island with a 6-day tour, including Rotorua and Auckland.",
         "price": 90000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
@@ -1070,10 +1144,11 @@
         "location":"New Zealand"
       },
       {
-        "id":30,
+        "id":75,
         "name": "Spain and Portugal Highlights",
         "description": "Explore the rich culture and history of Spain and Portugal with an 8-day tour, including Madrid, Lisbon, and Porto.",
         "price": 105000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -1085,10 +1160,11 @@
         "location":"Europe"
       },
       {
-        "id":31,
+        "id":76,
         "name": "Nepal Everest Base Camp Trek",
         "description": "Embark on a challenging 14-day trek to Everest Base Camp, experiencing the majestic Himalayas up close.",
         "price": 120000,
+        "type":"International",
         "duration": "14 Days",
         "inclusions": [
           "Accommodation",
@@ -1100,10 +1176,11 @@
         "location":"Nepal"
       },
       {
-        "id":32,
+        "id":77,
         "name": "Patagonia Adventure",
         "description": "Experience the rugged beauty of Patagonia with a 10-day adventure tour, including hiking in Torres del Paine.",
         "price": 140000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -1115,10 +1192,11 @@
         "location":"United states"
       },
       {
-        "id":33,
+        "id":78,
         "name": "Russia Golden Ring Tour",
         "description": "Explore the historic cities of Russia's Golden Ring with an 8-day tour, including Moscow, Suzdal, and Vladimir.",
         "price": 100000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -1130,10 +1208,11 @@
         "location":"Russia"
       },
       {
-        "id":34,
+        "id":79,
         "name": "Mongolia Gobi Desert Expedition",
         "description": "Embark on an expedition to the Gobi Desert with a 10-day tour, including nomadic culture experiences.",
         "price": 120000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Accommodation",
@@ -1145,10 +1224,11 @@
         "location":"china"
       },
       {
-        "id":35,
+        "id":80,
         "name": "Norway Fjords and Northern Lights",
         "description": "Discover the stunning fjords of Norway and witness the Northern Lights with a 7-day tour.",
         "price": 115000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -1160,10 +1240,11 @@
         "location":"Norway"
       },
       {
-        "id":36,
+        "id":81,
         "name": "Mexico Yucatan Peninsula Tour",
         "description": "Explore the rich history and culture of Mexico's Yucatan Peninsula with a 7-day tour, including Cancun and Chichen Itza.",
         "price": 100000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -1175,10 +1256,11 @@
         "location":"United states"
       },
       {
-        "id":37,
+        "id":82,
         "name": "Dubai and Abu Dhabi Luxury Tour",
         "description": "Indulge in luxury with a 7-day tour of Dubai and Abu Dhabi, including Burj Khalifa, Ferrari World, and desert safari.",
         "price": 105000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Luxury Accommodation",
@@ -1190,10 +1272,11 @@
         "location":"Dubai"
       },
       {
-        "id":38,
+        "id":83,
         "name": "Galapagos Islands Wildlife Cruise",
         "description": "Explore the unique wildlife of the Galapagos Islands with a 7-day luxury cruise.",
         "price": 150000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Cruise Accommodation",
@@ -1205,10 +1288,11 @@
         "location":"United states"
       },
       {
-        "id":39,
+        "id":84,
         "name": "Tanzania Serengeti Safari",
         "description": "Experience the Great Migration with a 10-day safari tour in Tanzania's Serengeti National Park.",
         "price": 160000,
+        "type":"International",
         "duration": "10 Days",
         "inclusions": [
           "Luxury Safari Lodge Stay",
@@ -1220,10 +1304,11 @@
         "location":"Africa"
       },
       {
-        "id":40,
+        "id":85,
         "name": "Sri Lanka Cultural Heritage Tour",
         "description": "Explore the rich cultural heritage of Sri Lanka with an 8-day tour, including Sigiriya, Kandy, and Galle.",
         "price": 80000,
+        "type":"International",
         "duration": "8 Days",
         "inclusions": [
           "Accommodation",
@@ -1235,10 +1320,11 @@
         "location":"Sri lanka"
       },
       {
-        "id":41,
+        "id":86,
         "name": "New Orleans Jazz and Heritage Tour",
         "description": "Experience the vibrant culture of New Orleans with a 5-day jazz and heritage tour.",
         "price": 70000,
+        "type":"International",
         "duration": "5 Days",
         "inclusions": [
           "Accommodation",
@@ -1250,10 +1336,11 @@
         "location":"United states"
       },
       {
-        "id":42,
+        "id":87,
         "name": "Peru Amazon Rainforest Adventure",
         "description": "Explore the Amazon Rainforest in Peru with a 6-day adventure tour, including wildlife safaris and river cruises.",
         "price": 95000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Lodge Accommodation",
@@ -1265,10 +1352,11 @@
         "location":"Peru"
       },
       {
-        "id":43,
+        "id":88,
         "name": "Mongolia Eagle Hunting Festival",
         "description": "Witness the ancient tradition of eagle hunting in Mongolia with a 7-day cultural tour.",
         "price": 110000,
+        "type":"International",
         "duration": "7 Days",
         "inclusions": [
           "Accommodation",
@@ -1280,10 +1368,11 @@
         "location":"china"
       },
       {
-        "id":44,
+        "id":89,
         "name": "Argentina Wine and Tango Tour",
         "description": "Experience the vibrant culture of Argentina with a 6-day wine and tango tour, including Buenos Aires and Mendoza.",
         "price": 100000,
+        "type":"International",
         "duration": "6 Days",
         "inclusions": [
           "Accommodation",
