@@ -15,7 +15,8 @@
           "Transport"
         ],
         "image": "https://static.toiimg.com/photo/61241721.cms",
-        "location": "Delhi, Agra, Jaipur"
+        "location": "Delhi, Agra, Jaipur",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448193.9510303652!2d76.76356891374637!3d28.64428735347703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1724146316790!5m2!1sen!2sin"
       },
       { "id": 2,
         "name": "Kerala Backwaters Tour",
@@ -30,7 +31,8 @@
           "Local Transfers"
         ],
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/07/0b/d0/64.jpg",
-        "location":"Kerala"
+        "location":"Kerala",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4016656.514935041!2d73.49571820655787!3d10.538724802775436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0812ffd49cf55b%3A0x64bd90fbed387c99!2sKerala!5e0!3m2!1sen!2sin!4v1724146563599!5m2!1sen!2sin"
       },
       { "id": 3,
         "name": "Rajasthan Heritage Tour",
@@ -45,7 +47,8 @@
           "Transport"
         ],
         "image": "https://www.tourism.rajasthan.gov.in/content/dam/rajasthan-tourism/english/city/menu/29_new.jpg",
-        "location": "Rajasthan"
+        "location": "Rajasthan",
+        "map":"www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7310080.135473508!2d68.58303588257382!3d26.540216216210105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396a3efaf7e30e37%3A0xb52b9b4506c088e5!2sRajasthan!5e0!3m2!1sen!2sin!4v1724147023265!5m2!1sen!2sin" 
 
       },
       { "id": 4,
@@ -61,7 +64,8 @@
           "Local Transfers"
         ],
         "image": "https://media.cntraveler.com/photos/569fcbf8c58591430b12d609/master/pass/goa-beach-huts-cr-getty.jpg",
-        "location":"Goa"
+        "location":"Goa",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d984956.6951314247!2d73.3471910483667!3d15.350084489106946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfba106336b741%3A0xeaf887ff62f34092!2sGoa!5e0!3m2!1sen!2sin!4v1724147208792!5m2!1sen!2sin" 
       },
       { "id": 5,
         "name": "North East India Tour",
@@ -76,7 +80,8 @@
           "Transport"
         ],
         "image": "https://static2.tripoto.com/media/filter/tst/img/1356094/TripDocument/1559127574_1559127559952.jpg",
-        "location": "Shillong"
+        "location": "Shillong",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115150.5353909269!2d91.81003507310847!3d25.589818298560115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37507e8f34bd207f%3A0x62482df7108f882b!2sShillong%2C%20Meghalaya!5e0!3m2!1sen!2sin!4v1724147279146!5m2!1sen!2sin" 
       },
       { "id": 6,
         "name": "Leh-Ladakh Adventure",
@@ -91,7 +96,8 @@
           "Transport"
         ],
         "image": "https://www.incredibleindia.org/content/dam/incredible-india-v2/images/places/leh/leh-ladakh-leh-ladakh-zanskar-valley.jpg/jcr:content/renditions/cq5dam.web.1024.576.jpeg",
-        "location": "Leh-Ladakh"
+        "location": "Leh-Ladakh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3387857.213044451!2d74.80324477405223!3d33.98086272635546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38fd86bce37d7139%3A0xc6c2990fdad28ac7!2sLadakh!5e0!3m2!1sen!2sin!4v1724147408420!5m2!1sen!2sin"
       },
       { "id": 7,
         "name": "Andaman & Nicobar Islands Tour",
@@ -106,7 +112,8 @@
           "Island Transfers"
         ],
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/The_Coral_Reef_at_the_Andaman_Islands.jpg",
-        "location": "Andaman & Nicobar Islands"
+        "location": "Andaman & Nicobar Islands",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4020881.3746898784!2d90.5889872731688!3d10.209702378886094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3064a00f2b650ff3%3A0xce80055648fccb2c!2sAndaman%20and%20Nicobar%20Islands!5e0!3m2!1sen!2sin!4v1724147490108!5m2!1sen!2sin"
       },
       { "id": 8,
         "name": "Backwaters and Beaches of Kerala",
@@ -121,7 +128,8 @@
           "Local Transfers"
         ],
         "image": "https://miro.medium.com/v2/resize:fit:1136/1*AXJQ-k09TaGHT0R97Y5v6Q.jpeg",
-        "location": "Kerala"
+        "location": "Kerala",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4016656.514935041!2d73.49571820655787!3d10.538724802775436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0812ffd49cf55b%3A0x64bd90fbed387c99!2sKerala!5e0!3m2!1sen!2sin!4v1724146563599!5m2!1sen!2sin"
       },
       { "id": 9,
         "name": "Temple Tour of South India",
@@ -136,7 +144,8 @@
           "Transport"
         ],
         "image": "https://www.akshartours.com/wp-content/uploads/2020/02/South-India-Temple-Tour-Packages.jpg",
-        "location":"Tamil Nadu"
+        "location":"Tamil Nadu",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4013002.160612961!2d75.64712472020913!3d10.8153356861231!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00c582b1189633%3A0x559475cc463361f0!2sTamil%20Nadu!5e0!3m2!1sen!2sin!4v1724147662524!5m2!1sen!2sin"
       },
       { "id": 10,
         "name": "Wildlife Safari in Jim Corbett National Park",
@@ -151,7 +160,8 @@
           "National Park Fees"
         ],
         "image": "https://www.sevencorbett.com/wp-content/uploads/2024/05/Best-Safari-Zone.webp",
-        "location": "Uttarakhand"
+        "location": "Uttarakhand",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1767557.632800547!2d77.9892230915472!3d30.086710545047296!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909dcc202279c09%3A0x7c43b63689cc005!2sUttarakhand!5e0!3m2!1sen!2sin!4v1724147747517!5m2!1sen!2sin"
       },
       { "id": 11,
         "name": "Darjeeling & Sikkim Tour",
@@ -166,7 +176,8 @@
           "Transport"
         ],
         "image": "https://www.unclesamholidays.com/gallery/Darjeeling05.jpg",
-        "location":"Darjeeling"
+        "location":"Darjeeling",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56862.43054295462!2d88.22347517990819!3d27.03326535820921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e42e654cf501bb%3A0x4175555979d4702a!2sDarjeeling%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1724147873329!5m2!1sen!2sin" 
       },
       { "id": 12,
         "name": "Rann of Kutch Festival Tour",
@@ -181,7 +192,8 @@
           "Transport"
         ],
         "image": "https://www.sharpholidays.in/blog/wp-content/uploads/2019/10/Rann-Of-Kutch-Festival-2019.jpg",
-        "location": "Gujarat"
+        "location": "Gujarat",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777314.872995804!2d68.6848901800457!3d22.399496801005473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959051f5f0ef795%3A0x861bd887ed54522e!2sGujarat!5e0!3m2!1sen!2sin!4v1724147963377!5m2!1sen!2sin" 
       },
       { "id": 13,
         "name": "Meghalaya Cave Exploration",
@@ -196,7 +208,8 @@
           "Transport"
         ],
         "image": "https://cdn1.tripoto.com/media/filter/nl/img/2380291/Image/1696515114_caves_in_meghalaya_tour_destinations.jpg.webp",
-        "location": "Assam"
+        "location": "Assam",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671003.6745494255!2d90.21640933695525!3d26.034716692989132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x374516c94c312d63%3A0xd11a73bb736719fb!2sAssam!5e0!3m2!1sen!2sin!4v1724148078077!5m2!1sen!2sin" 
       },
       { "id": 14,
         "name": "Heritage Tour of Varanasi",
@@ -211,7 +224,8 @@
           "Transport"
         ],
         "image": "https://kashibanaras.com/wp-content/uploads/2021/10/heritagewalk-1.jpg",
-        "location":"Uttar Pradesh"
+        "location":"Uttar Pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115408.09799801745!2d82.90870686378503!3d25.320894920254034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2db76febcf4d%3A0x68131710853ff0b5!2sVaranasi%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1724148143246!5m2!1sen!2sin" 
       },
       { "id": 15,
         "name": "Majestic Himachal Tour",
@@ -226,7 +240,8 @@
           "Transport"
         ],
         "image": "https://mediaindia.eu/wp-content/uploads/2018/05/3F5A7619-2-1024x683.jpg",
-        "location": "Manali"
+        "location": "Manali",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26997.521732068573!2d77.16652016291825!3d32.23950667848006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39048708163fd03f%3A0x8129a80ebe5076cd!2sManali%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1724148243190!5m2!1sen!2sin" 
       },
       { "id": 16,
         "name": "Gujarat Wildlife and Cultural Tour",
@@ -241,7 +256,9 @@
           "Cultural Experiences"
         ],
         "image": "https://tripindia.co.in/uploads/Gujarat-Wildlife-and-Cultural-Tour1.jpg",
-        "location": "Gujarat"
+        "location": "Gujarat",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3777314.872995804!2d68.6848901800457!3d22.399496801005473!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3959051f5f0ef795%3A0x861bd887ed54522e!2sGujarat!5e0!3m2!1sen!2sin!4v1724147963377!5m2!1sen!2sin" 
+
       },
       { "id": 17,
         "name": "Kashmir Valley Tour",
@@ -256,7 +273,8 @@
           "Local Transfers"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQYNk60zasgh08J7-hV-clX2LSB5z8Rwkyjw&s",
-        "location": "Kashmir"
+        "location": "Kashmir",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13588.190601387292!2d76.38165188085614!3d31.632545690754554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391b2a7b793adcfd%3A0x5e65f5500e37035e!2sKashmir%2C%20Himachal%20Pradesh%20177006!5e0!3m2!1sen!2sin!4v1724148456426!5m2!1sen!2sin"
       },
       { "id": 18,
         "name": "Mysore and Coorg Heritage Tour",
@@ -271,7 +289,8 @@
           "Transport"
         ],
         "image": "https://pictures.trodly.com/image/activity/1237/size-885x420/mode-crop/5a1522f845d9a.jpg",
-        "location": "Mysore"
+        "location": "Mysore",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d124738.36909994077!2d76.55328739062016!3d12.310801130684599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf70381d572ef9%3A0x2b89ece8c0f8396d!2sMysuru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1724148543790!5m2!1sen!2sin"
 
       }, 
       { "id": 19,
@@ -287,7 +306,8 @@
           "Transport"
         ],
         "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-674x446/07/80/32/10.jpg",
-        "location":"odisha"
+        "location":"odisha",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7984153.46320151!2d66.886684225!3d12.281239000000012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baf6f9fc6d14e2f%3A0xb3a01ccb88ac80d4!2sJagannath%20Temple!5e0!3m2!1sen!2sin!4v1724148640508!5m2!1sen!2sin" 
       },
       { "id": 20,
         "name": "Andhra Pradesh Temple Tour",
@@ -302,7 +322,8 @@
           "Transport"
         ],
         "image": "https://www.holidify.com/images/cmsuploads/compressed/RanganathaTemple(1)_20200117103000.jpg",
-        "location": "Andhra pradesh"
+        "location": "Andhra pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929563.8751475443!2d78.11857159210203!3d15.88470629531562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a3546f8ae93d47f%3A0x33d1bbbe95adcd83!2sAndhra%20Pradesh!5e0!3m2!1sen!2sin!4v1724148740434!5m2!1sen!2sin" 
       },
       { "id": 21,
         "name": "Hampi and Badami Heritage Tour",
@@ -317,7 +338,8 @@
           "Transport"
         ],
         "image": "https://www.karnatakatourism.org/wp-content/uploads/2020/05/Pattadakal-3.jpg",
-        "location":"Karnataka"
+        "location":"Karnataka",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7695.596326333727!2d76.4581848396501!3d15.33320013795291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb77fd95d4be823%3A0x6e52e05076df36b8!2sHampi%2C%20Karnataka%20583239!5e0!3m2!1sen!2sin!4v1724148829739!5m2!1sen!2sin" 
       },
       { "id": 22, 
         "name": "Lakshadweep Islands Tour",
@@ -332,7 +354,8 @@
           "Local Transfers"
         ],
         "image": "https://revolve.media/wp-content/uploads/2023/08/lakshadweep-island-aerial-dhritiman-mukherjee.jpg.jpg",
-        "location":"Kerala"
+        "location":"Kerala",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2011844.008935169!2d71.61273724904586!3d9.985201375519884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b9fcd65cae4973d%3A0x17bd7416842ce9aa!2sLakshadweep!5e0!3m2!1sen!2sin!4v1724148896968!5m2!1sen!2sin"
       },
       { "id": 23,
         "name": "Khajuraho and Orchha Tour",
@@ -347,7 +370,8 @@
           "Transport"
         ],
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/71/d5/dd.jpg",
-        "location":"Madhya pradesh"
+        "location":"Madhya pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57935.83014658235!2d79.87062581076148!3d24.83003665316438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3982e5f63138c3c5%3A0xaa20ea639a4572c!2sKhajuraho%2C%20Madhya%20Pradesh%20471606!5e0!3m2!1sen!2sin!4v1724148964885!5m2!1sen!2sin"
       },
       { "id": 24,
         "name": "Sundarbans Mangrove Safari",
@@ -362,7 +386,8 @@
           "National Park Fees"
         ],
         "image": "https://ishatours.net/wp-content/uploads/2023/10/suddarban1.jpg",
-        "location":"West bengal, kolkata"
+        "location":"West bengal, kolkata",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15042300.854520906!2d73.73897351848728!3d23.00773143993747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a018bd04829e4d9%3A0xae3951b202cc91e1!2sSundarban%20Mangrove%20Safari%20-%20Sundarban%20Tour%20Operator!5e0!3m2!1sen!2sin!4v1724149053314!5m2!1sen!2sin"
       },
       { "id": 25,
         "name": "Ajanta and Ellora Caves Tour",
@@ -377,7 +402,8 @@
           "Transport"
         ],
         "image": "https://www.onacheaptrip.com/wp-content/uploads/Kailasa-Temple-at-Ellora-Caves-Aurangabad.jpg",
-        "location": "Maharashtra Aurangabad"
+        "location": "Maharashtra Aurangabad",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d479812.9623430572!2d74.56808338906251!3d20.027863700000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdb9260a1c561eb%3A0x68325cf45df2403e!2sAjanta%20Ellora%20Cave%2027!5e0!3m2!1sen!2sin!4v1724149128912!5m2!1sen!2sin" 
       },
       { "id": 26,
         "name": "Pushkar Camel Fair Tour",
@@ -392,7 +418,8 @@
           "Transport"
         ],
         "image": "https://www.tripsavvy.com/thmb/6tWGpoIR7MeymovRSmnZuITJPH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-458241585-0f022a1c39c7409a8e05803c189becd7.jpg",
-        "location": "Rajasthan"
+        "location": "Rajasthan",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3570.948753642904!2d74.54196912488044!3d26.489594828146846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396bddf007046c5b%3A0x8a3cdf8783d736ec!2sPushkar%20Camel%20Fair!5e0!3m2!1sen!2sin!4v1724149207888!5m2!1sen!2sin" 
       },
       { "id": 27,
         "name": "Madhya Pradesh Wildlife Tour",
@@ -407,7 +434,8 @@
           "National Park Fees"
         ],
         "image": "https://tripindia.co.in//uploads/Explore-Madhya-Pradesh-Wildlife2.jpg",
-        "location":"Madhya Pradesh"
+        "location":"Madhya Pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3733732.675164466!2d75.77901875062902!3d23.952542150668382!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39667381d35aea05%3A0xe0106b0d4e701c1e!2sMadhya%20Pradesh!5e0!3m2!1sen!2sin!4v1724149324054!5m2!1sen!2sin" 
       },
       { "id": 28,
         "name": "Nainital and Jim Corbett Tour",
@@ -422,7 +450,8 @@
           "Local Transfers"
         ],
         "image": "https://www.chardhamtourism.co.in/wp-content/uploads/2022/07/4.jpg",
-        "location":"Uttarakhand"
+        "location":"Uttarakhand",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6952.565473055255!2d79.44453784124863!3d29.391283948978614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a0a1e95dcdfd27%3A0xa71b54fcf7f36ca1!2sJim%20Corbett%20Gurney%20House!5e0!3m2!1sen!2sin!4v1724149404857!5m2!1sen!2sin"
       },
       { "id": 29,
         "name": "Ooty and Coonoor Hill Station Tour",
@@ -437,7 +466,8 @@
           "Transport"
         ],
         "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2020/01/cover-hill-station-near-coonoor_14th-jan.jpg",
-        "location": "Tamil Nadu"
+        "location": "Tamil Nadu",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3911.8703853919756!2d76.78875747452413!3d11.344176648465984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba894ede2929b8f%3A0x97d37ac0a7650c6e!2sCoonoor!5e0!3m2!1sen!2sin!4v1724149472958!5m2!1sen!2sin"
       },
       { "id": 30,
         "name": "Delhi Agra Jaipur Tour",
@@ -452,7 +482,8 @@
           "Transport"
         ],
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/f2/65/7b.jpg",
-        "location":"Rajasthan"
+        "location":"Rajasthan",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7310080.135473508!2d68.5830358825738!3d26.540216216210105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396a3efaf7e30e37%3A0xb52b9b4506c088e5!2sRajasthan!5e0!3m2!1sen!2sin!4v1724149579302!5m2!1sen!2sin" 
 
       },
       { "id": 31,
@@ -468,7 +499,8 @@
           "Local Transfers"
         ],
         "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/471891099.jpg?k=73966da9852a6d8436396154d56c4c1dc03ad6c7f91b8b49d5dea5bbc372dfd2&o=&hp=1",
-        "location":"Kerala"
+        "location":"Kerala",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62963.072704273116!2d76.30240432675174!3d9.49201959875195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b088418062069af%3A0x69b8feca50164fd3!2sAlleppey%20Houseboats%20%7C%20Alleppey%20Boat%20House%20-%20Waves%20and%20Dales%20Alleppey%20Houseboat!5e0!3m2!1sen!2sin!4v1724149633194!5m2!1sen!2sin"
       },
       { "id": 32,
         "name": "Jaisalmer Desert Safari",
@@ -483,7 +515,8 @@
           "Cultural Shows"
         ],
         "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/2a/04/c5/getlstd-property-photo.jpg",
-        "location":"Rajasthan"
+        "location":"Rajasthan",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227726.6321363381!2d70.5743748054841!3d26.896238335025316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3947bd5d3585baa3%3A0x407712a644087691!2sJaisalmer%20Desert%20Camps!5e0!3m2!1sen!2sin!4v1724149732595!5m2!1sen!2sin" 
       },
       { "id": 33,
         "name": "Manali Adventure Tour",
@@ -498,7 +531,8 @@
           "Transport"
         ],
         "image": "https://travelgangtok.com/uploads/tours/TP-1436-6844/shimla-manali-Himachal-Pradesh-travelgangtok.jpg",
-        "location":"Manali"
+        "location":"Manali",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26997.52173206854!2d77.16652016291825!3d32.239506678480055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39048708163fd03f%3A0x8129a80ebe5076cd!2sManali%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1724149842182!5m2!1sen!2sin" 
       },
       { "id": 34,
         "name": "Rishikesh Yoga and Meditation Retreat",
@@ -513,7 +547,8 @@
           "Meditation Sessions"
         ],
         "image": "https://rishikeshschoolofyoga.org/images/spiritual-yoga-retreat-in-rishikesh-india.jpg",
-        "location":"Rishikesh"
+        "location":"Uttarakhand",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55230.51371543605!2d78.27811385935254!3d30.096846634287168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909165d1e522815%3A0x718a76ca014ffa44!2sSwami%20Vivekanand%20Yoga%20%26%20Meditation%20School%20Rishikesh.%20Best%20Yoga%20Teacher%20Training%20School%20in%20Rishikesh%2C%20India.!5e0!3m2!1sen!2sin!4v1724149926756!5m2!1sen!2sin" 
       },
       { "id": 35,
         "name": "Shimla and Kufri Hill Station Tour",
@@ -528,7 +563,8 @@
           "Transport"
         ],
         "image": "https://karthikraja.blog/wp-content/uploads/2005/03/40832019-shimla016.jpg?w=799",
-        "location":"Himachal Pradesh"
+        "location":"Himachal Pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13665.346290836871!2d77.25739344867915!3d31.100376114088295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390583e9fa930c1d%3A0x557edf73688dd0d5!2sKufri%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1724149996162!5m2!1sen!2sin" 
       },
       { "id": 36,
         "name": "Kanha National Park Safari",
@@ -543,7 +579,8 @@
           "National Park Fees"
         ],
         "image": "https://tigersafaritoursindia.com/wp-content/uploads/2021/05/kanha-national-park.jpg",
-        "location":"Madhya Pradesh"
+        "location":"Madhya Pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118096.75862940884!2d80.4573603972656!3d22.333846000000015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d01514caa67ef%3A0xc23e416ccb4694f9!2sKanha%20National%20Park!5e0!3m2!1sen!2sin!4v1724150120454!5m2!1sen!2sin" 
       },
       { "id": 37,
         "name": "Varanasi Spiritual Tour",
@@ -558,7 +595,8 @@
           "Transport"
         ],
         "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6f/12/a6.jpg",
-        "location":"Uttar Pradesh"
+        "location":"Uttar Pradesh",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d115408.0979980173!2d82.90870686378503!3d25.320894920254027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2db76febcf4d%3A0x68131710853ff0b5!2sVaranasi%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1724150205579!5m2!1sen!2sin" 
       },
       { "id": 38,
         "name": "Munnar Tea Plantation Tour",
@@ -573,7 +611,8 @@
           "Transport"
         ],
         "image": "https://imgmedia.lbb.in/media/2023/12/65696fc27f06dd4fb6e9b84e_1701408706545.jpg",
-        "location":"Kerala"
+        "location":"Kerala",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d125710.54233521526!2d76.90748429726561!3d10.061799300000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b0799438034b4eb%3A0xf198ef308d61e6ec!2sTea%20Plantation%20Munnar!5e0!3m2!1sen!2sin!4v1724150274092!5m2!1sen!2sin" 
       },
       { "id": 39,
         "name": "Amritsar and Wagah Border Tour",
@@ -588,7 +627,8 @@
           "Transport"
         ],
         "image": "https://static.india.com/wp-content/uploads/2022/07/beating-retreat.jpg?impolicy=Medium_Widthonly&w=400",
-        "location":"Punjab"
+        "location":"Punjab",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3398.0600735625344!2d74.57153517507278!3d31.604813642966132!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39191385b01f6e13%3A0xac0da9784270188a!2sAttari%20-%20Wagah%20Border!5e0!3m2!1sen!2sin!4v1724150352995!5m2!1sen!2sin" 
       },
       { "id": 40,
         "name": "Mount Abu Hill Station Tour",
@@ -603,7 +643,8 @@
           "Transport"
         ],
         "image": "https://staticimg.amarujala.com/assets/images/2019/05/07/mount-abu_1557227794.jpeg",
-        "location":"Rajasthan"
+        "location":"Rajasthan",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232185.8728714314!2d72.40342939453124!3d24.592499999999983!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395cd580b810e5c1%3A0xc3e65e7da56bb26e!2sMount%20Abu!5e0!3m2!1sen!2sin!4v1724150414369!5m2!1sen!2sin" 
       },
       { "id": 41,
         "name": "Coorg Coffee Plantation Tour",
@@ -618,7 +659,8 @@
           "Transport"
         ],
         "image": "https://static.toiimg.com/thumb/104669181/Coorg.jpg?width=1200&height=900",
-        "location":"Karnataka"
+        "location":"Karnataka",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1947.5612880569458!2d75.70224878847146!3d12.50803356549257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba4fe07cb1c961b%3A0xd53cb65e8712729d!2sCoffee%20Estate!5e0!3m2!1sen!2sin!4v1724150787043!5m2!1sen!2sin"
       },
       { "id": 42,
         "name": "Shillong and Cherrapunjee Tour",
@@ -633,7 +675,8 @@
           "Transport"
         ],
         "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2018/06/dawki-cherrapunji-meghalaya.jpg",
-        "location": "Assam"
+        "location": "Assam",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14432.042484675547!2d91.72198864526864!3d25.27022814702562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x37508cd1f80d5647%3A0x1db9015577abfe88!2sCherrapunji%2C%20Meghalaya%20793108!5e0!3m2!1sen!2sin!4v1724150862306!5m2!1sen!2sin" 
       },
       { "id": 43,
         "name": "Kaziranga National Park Safari",
@@ -648,7 +691,8 @@
           "National Park Fees"
         ],
         "image": "https://cdn.pixabay.com/photo/2013/08/05/06/25/farming-169927_640.jpg",
-        "location":"Assam"
+        "location":"Assam",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d917149.7920452708!2d92.07134929955659!3d26.111438653242946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3744412d379f65df%3A0x8b2b74b6e7c99458!2sKaziranga%20National%20Park!5e0!3m2!1sen!2sin!4v1724150976288!5m2!1sen!2sin" 
       },
       { "id": 44,
         "name": "Hyderabad Heritage Tour",
@@ -663,7 +707,8 @@
           "Transport"
         ],
         "image": "https://i.pinimg.com/originals/93/32/f8/9332f8a07ae4551efeec53325f0917c6.jpg",
-        "location":"Telangana"
+        "location":"Telangana",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243646.9050953727!2d78.24323113439739!3d17.412608642828783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1724151045542!5m2!1sen!2sin" 
       },
       { "id": 45,
         "name": "Goa Carnival Tour",
@@ -678,7 +723,8 @@
           "Local Transfers"
         ],
         "image": "https://t4.ftcdn.net/jpg/00/71/81/77/360_F_71817701_JYgOmVQfMvHVzXcWYopbfCcVqSfXrTE1.jpg",
-        "location":"Goa"
+        "location":"Goa",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d984956.6951314247!2d73.3471910483667!3d15.350084489106946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bbfba106336b741%3A0xeaf887ff62f34092!2sGoa!5e0!3m2!1sen!2sin!4v1724151161280!5m2!1sen!2sin"
       },
 
       { "id":46,
@@ -694,7 +740,8 @@
           "Transport"
         ],
         "image": "https://images.squarespace-cdn.com/content/v1/6170a7fb9cfbe613f5de8eb7/1662834162787-50AJDZTGX00M6LZCJKG5/GettyImages-1250971698.jpg",
-        "location":"France"
+        "location":"France",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d742257.4088992364!2d5.861330974318484!3d43.388669257061174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cebc738732d97f%3A0x594966412c5651c0!2sFrench%20Riviera%2C%20France!5e0!3m2!1sen!2sin!4v1724151236792!5m2!1sen!2sin" 
       },
       { "id":47,
         "name": "Swiss Alps Adventure",
@@ -709,7 +756,8 @@
           "Transport"
         ],
         "image": "https://images.contentstack.io/v3/assets/blt06f605a34f1194ff/blt99a5929f402cebfb/6470396cf0d737e526b114f9/BCC-2022-SWISS-ALPS-ADVENTURE-002.webp?auto=webp&quality=80&width=800&disable=upscale",
-        "location":"Switzerland"
+        "location":"Switzerland",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10973.485701026917!2d8.550778361053165!3d46.56011984203211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478576eb2f97f733%3A0x41140a31bc0c273!2sSwiss%20Alps!5e0!3m2!1sen!2sin!4v1724151347510!5m2!1sen!2sin" 
       },
       {
         "id":48,
@@ -725,7 +773,8 @@
           "Transport"
         ],
         "image": "https://cdn.britannica.com/75/75775-131-1D05DD74/Colosseum-Rome.jpg",
-        "location":"Italy"
+        "location":"Italy",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12367353.697823416!2d2.1183282868056765!3d40.81975990771308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d4fe82448dd203%3A0xe22cf55c24635e6f!2sItaly!5e0!3m2!1sen!2sin!4v1724151449865!5m2!1sen!2sin" 
       },
       { "id":49,
         "name": "Australia East Coast Adventure",
@@ -740,7 +789,8 @@
           "Transport"
         ],
         "image": "https://www.gap360.com/tpl/lib/img/private/media/noosa-ultimate-east-coast-52f6-week.jpeg",
-        "location":"Sydney Australia"
+        "location":"Sydney Australia",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30175164.89346746!2d126.87984121961863!3d-22.598102711852988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6bd542c841692619%3A0xa52f75528ac1d3c!2sEastern%20states%20of%20Australia%2C%20Australia!5e0!3m2!1sen!2sin!4v1724151536749!5m2!1sen!2sin" 
       },
       { "id":50,
         "name": "New Zealand South Island Explorer",
@@ -755,7 +805,8 @@
           "Transport"
         ],
         "image": "https://www.intrepidtravel.com/adventures/wp-content/uploads/2021/09/Intrepid-Travel-IntrepidTravel-NZ-SouthIsland-Blue-Pools-Haast-Pass-ss_1231278604.jpg",
-        "location":"New Zealand"
+        "location":"New Zealand",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5931370.7314467775!2d165.08655834535475!3d-43.45689940118104!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa82a57f80ab40ad3%3A0x31fd410f8a3e86eb!2sTe%20Waipounamu%20%2F%20South%20Island!5e0!3m2!1sen!2sin!4v1724151616333!5m2!1sen!2sin" 
       },
       { "id":51,
         "name": "Japan Cultural Tour",
@@ -770,7 +821,8 @@
           "Transport"
         ],
         "image": "https://www.japanshoreexcursions.com/wp-content/uploads/Japanese-traditional-culture-facts.jpg",
-        "location":"Japan"
+        "location":"Japan",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27816364.25988382!2d115.70711454360831!3d31.673466753659003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x34674e0fd77f192f%3A0xf54275d47c665244!2sJapan!5e0!3m2!1sen!2sin!4v1724151767321!5m2!1sen!2sin" 
       },
       { "id":52,
         "name": "Dubai Luxury Tour",
@@ -785,7 +837,8 @@
           "Shopping Tours"
         ],
         "image": "https://meconstructionnews.com/wp-content/uploads/2022/11/Dubai-City_1000x600.jpg",
-        "location":"Dubai"
+        "location":"Dubai",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d462560.68281993613!2d54.89782331352097!3d25.076280448422043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f43496ad9c645%3A0xbde66e5084295162!2sDubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sin!4v1724151853892!5m2!1sen!2sin" 
       },
       { "id":53,
         "name": "Iceland Northern Lights Tour",
@@ -800,7 +853,8 @@
           "Transport"
         ],
         "image": "https://www.wildernesstravel.com/wp-content/uploads/2024/01/thumb-ICENOLIT-iceland-hikers-northern-lights-aurora-borealis-012324.jpg",
-        "location":"Iceland"
+        "location":"Iceland",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28495522.72148147!2d-99.99153850000003!3d64.15635680000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48d60b2bc6333095%3A0x978373239a1fd069!2sAurora%20Reykjav%C3%ADk%20-%20The%20Northern%20Lights%20Center!5e0!3m2!1sen!2sin!4v1724152007849!5m2!1sen!2sin" 
       },
       { 
         "id":54,
@@ -816,7 +870,8 @@
           "Guided Tours"
         ],
         "image": "https://www.wheretonexttravelblog.com/wp-content/uploads/2018/04/elephants-at-sunset-Africa.jpg",
-        "location":"Africa"
+        "location":"Africa",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7191107.216617989!2d19.849824727446865!3d-28.350297879085105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1ec307496d32d53b%3A0x9182cc04d4329472!2sKRUGER%20NATIONAL%20PARK%20SAFARIS%20%7C%20KNP%20SAFARIS%20%7C%20SOUTH%20AFRICA%20SAFARIS!5e0!3m2!1sen!2sin!4v1724174644381!5m2!1sen!2sin" 
       },
       { 
         "id":55,
@@ -832,7 +887,8 @@
           "Local Transfers"
         ],
         "image": "https://img.freepik.com/premium-photo/tropical-beach-escape-maldives-luxury-resort-vivid-seascape-tranquility_892776-24145.jpg",
-        "location": "Sri lanka"
+        "location": "Sri lanka",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8159114.948605828!2d67.93877512753143!3d3.1098242617116876!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x24b599bfaafb7bbd%3A0x414509e181956289!2sMaldives!5e0!3m2!1sen!2sin!4v1724174756634!5m2!1sen!2sin" 
       },
       {
         "id":56,
@@ -848,9 +904,8 @@
           "Entertainment"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd0UqN-bgZFjsp6Cdkq6HMqCLk35VLpFOvvg&s",
-
-
-        "location":"Santorini"
+        "location":"Santorini",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3250545.242407991!2d21.297224278475415!3d37.28658694297804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1499ce86adfd9ff7%3A0xb2a761f740d68afc!2sSantorini!5e0!3m2!1sen!2sin!4v1724174844505!5m2!1sen!2sin" 
       },
       {
         "id":57,
@@ -866,7 +921,8 @@
           "Transport"
         ],
         "image": "https://www.egypttoursportal.com/images/2018/09/Nile-Cruises-Egypt-Tours-Portal.jpg",
-        "location":"Egypt"
+        "location":"Egypt",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13085044.57224459!2d13.327960725081493!3d36.80435650699647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14491507730ece8b%3A0xbdeab7c7c93be5a5!2sNile%20River%20Cruise!5e0!3m2!1sen!2sin!4v1724174921372!5m2!1sen!2sin" 
       },
       {  "id":58,
         "name": "Peru and Machu Picchu Adventure",
@@ -881,7 +937,8 @@
           "Transport"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQhGqJLzQCli6jafPItAf46BKP9hMzAztBw&s",
-        "location":"Peru"
+        "location":"Peru",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3884.9874123519044!2d-72.5478370253407!3d-13.163193563690463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916d9a5f89555555%3A0x3a10370ea4a01a27!2sHistoric%20Sanctuary%20of%20Machu%20Picchu!5e0!3m2!1sen!2sin!4v1724175017156!5m2!1sen!2sin" 
       },
       {
         "id":59,
@@ -897,7 +954,8 @@
           "Transport"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5He-O7P2gjxmSQkUBJqHVkDz40m5JIKKaYQ&s",
-        "location":"Thailand"
+        "location":"Thailand",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3951.488518777153!2d98.96313407448977!3d7.948362304968558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3051ee87508c1053%3A0x2a3c6db4fa44eb1b!2sLong%20Beach!5e0!3m2!1sen!2sin!4v1724175098481!5m2!1sen!2sin" 
       },
       {
         "id":60,
@@ -913,7 +971,8 @@
           "Transport"
         ],
         "image": "https://www.planetware.com/wpimages/2020/02/washington-dc-to-new-york-best-ways-to-get-there-by-train.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.9205234549368!2d-76.98652892459538!3d38.88006014772777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b9b532acc38b%3A0x40f56ec48a4839a2!2sNY%20Pizza%20Grill%20%7C%20DC%20-%20Capitol%20Hill!5e0!3m2!1sen!2sin!4v1724175173289!5m2!1sen!2sin" 
       },
       {
         "id":61,
@@ -929,7 +988,8 @@
           "National Park Fees"
         ],
         "image": "https://media.discoverafrica.com/wp-content/uploads/2019/06/iStock-536747875.jpg?strip=all&lossy=1&resize=1920%2C1080&ssl=1",
-        "location":"Africa"
+        "location":"Africa",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3102.770185855485!2d-76.8332372245918!3d38.95207824347674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c1d72721d9fb%3A0x7ab1dfc0254b5acb!2sSHIPPING%20TO%20KENYA%2C%20ETHIOPIA%2C%20UGANDA%2C%20SUDAN%2C%20RWANDA%2C%20TANZANIA!5e0!3m2!1sen!2sin!4v1724175235228!5m2!1sen!2sin" 
       },
       {
         "id":62,
@@ -945,7 +1005,8 @@
           "Yoga Sessions"
         ],
         "image": "https://solanabali.com/wp-content/uploads/2023/08/DSC03706-1-scaled.jpg",
-        "location":"bali Indonesia"
+        "location":"bali Indonesia",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63133.62750277118!2d115.22165149268176!3d-8.513774493751804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd223c1f441b273%3A0xfe86125b6ddb28b8!2sUbud%20Forest%20Wellness%20Resort%20and%20Retreats!5e0!3m2!1sen!2sin!4v1724175339802!5m2!1sen!2sin" 
       },
       {
         "id":63,
@@ -961,7 +1022,8 @@
           "Transport"
         ],
         "image": "https://www.govietnam.tours/wp-content/uploads/2023/10/Banteay-Srey-Cambodia-Vietnam-tour-package.jpg",
-        "location":"Asia"
+        "location":"Asia",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15635.499875003112!2d104.91295023977112!3d11.560819917690392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31095139fba8cd41%3A0xa23407b6564e4f7d!2sDestination%20Asia%20(Cambodia)!5e0!3m2!1sen!2sin!4v1724175447170!5m2!1sen!2sin" 
       },
       {
         "id":64,
@@ -977,7 +1039,8 @@
           "Transport"
         ],
         "image": "https://canadabydesign.com/media/CanadaRailVacations-banner-mobile-canadian-rockies-self-drive-road-trips.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83327.37148313466!2d-123.20630488144626!3d49.25781819061319!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548673f143a94fb3%3A0xbb9196ea9b81f38b!2sVancouver%2C%20BC%2C%20Canada!5e0!3m2!1sen!2sin!4v1724175867486!5m2!1sen!2sin"
       },
       {
         "id":65,
@@ -993,7 +1056,8 @@
           "National Park Fees"
         ],
         "image": "https://www.adn.com/resizer//VxDPTdkKlpSbBSbCeVB5az3ZgUo=/1200x630/filters:format(jpg):quality(70)/s3.amazonaws.com/arc-wordpress-client-uploads/adn/wp-content/uploads/2016/05/21164926/Denali160519-002.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2602.528738413463!2d-123.11597142401209!3d49.2853263705677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x548671438088fc5b%3A0x20f559ea5fcd9203!2sAlaska%20by%20Design!5e0!3m2!1sen!2sin!4v1724175969893!5m2!1sen!2sin" 
       },
       {
         "id":66,
@@ -1009,7 +1073,8 @@
           "Hot Air Balloon Ride"
         ],
         "image": "https://content.api.news/v3/images/bin/46555f313bc66c3c421b7250bbb33d53",
-        "location":"Europe"
+        "location":"Europe",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1601546.0461235112!2d33.747644941626056!3d38.37166753356331!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14d6025c679e1679%3A0xf9178b7341dc5e49!2sCappadocia%2C%20T%C3%BCrkiye!5e0!3m2!1sen!2sin!4v1724176205266!5m2!1sen!2sin" 
 
       },
       {
@@ -1026,7 +1091,8 @@
           "Transport"
         ],
         "image": "https://www.irelandtraveldeals.com/wp-content/uploads/2023/03/aussieactive-VxFQCqaI7pk-unsplash-scaled.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1916206.6493167!2d-157.68648006491878!3d20.27578576311216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7953e7c1c5f73a59%3A0x1455a492f9d78134!2sIsland%20of%20Hawai&#39;i!5e0!3m2!1sen!2sin!4v1724176321613!5m2!1sen!2sin"
       },
       {
         "id":68,
@@ -1042,7 +1108,8 @@
           "Transport"
         ],
         "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_fill,h_570,q_80,w_460/v1/clients/norway/northern_lights_Nyksund_vestera_len_credit_Tor_Yngve_Andreassen_header_1ad56325-9305-4427-acc7-9d60e68e7f3f.jpg",
-        "location":"Norway"
+        "location":"Norway",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17558123.221526794!2d-3.3133642837155706!3d57.50684858359091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4675e94eaedd6f73%3A0xfed0012f0581c722!2sNorthern%20Light!5e0!3m2!1sen!2sin!4v1724176471501!5m2!1sen!2sin"
       },
       {
         "id":69,
@@ -1058,7 +1125,8 @@
           "Transport"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHcnZ7StRJAGCPyOTuSpFGeSxRyVcNJrWQSw&s",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14393.533103383003!2d-54.60425075122976!3d-25.592177286715817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f6921c3a454239%3A0xddb715d21180b81e!2sTriple%20Frontier%2C%20100225%20Presidente%20Franco%2C%20Paraguay!5e0!3m2!1sen!2sin!4v1724176676356!5m2!1sen!2sin" 
       },
       {
         "id":70,
@@ -1074,7 +1142,8 @@
           "Guided Tours"
         ],
         "image": "https://www.marrakech-desert-trips.com/wp-content/uploads/2023/07/Marrakech-to-Fes-desert-tour-3-days-700x500.jpg",
-        "location":"Africa"
+        "location":"Africa",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3423563.278203105!2d-9.472145764286138!3d33.074272474813654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd973d8f39630a0d%3A0x8fe74bed82ea55e0!2sSahara%20Desert%20Morocco!5e0!3m2!1sen!2sin!4v1724176839453!5m2!1sen!2sin" 
       },
       {
         "id":71,
@@ -1090,7 +1159,8 @@
           "Expedition Gear"
         ],
         "image": "https://backtrackantarctica.com.au/wp-content/uploads/sites/6/2013/12/sea-spirit-antarctic-expedition-cruise-ship.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33859098.71777259!2d-12.328587300000013!3d-58.80400019999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xb09dff882a7809e1%3A0xb08d0a385dc8c7c7!2sAntarctica!5e0!3m2!1sen!2sin!4v1724176988461!5m2!1sen!2sin"
       },
       {
         "id":72,
@@ -1106,7 +1176,8 @@
           "Transport"
         ],
         "image": "https://nationalparks-15bc7.kxcdn.com/images/parks/beijing-great-wall/China%27s%20National%20Park%20and%20world%20wonder.jpg",
-        "location":"china"
+        "location":"china",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3036.9587743463235!2d116.56779997548371!3d40.43191175471597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x35f121d7687f2ccf%3A0xd040259b950522df!2sGreat%20Wall%20of%20China!5e0!3m2!1sen!2sin!4v1724177103447!5m2!1sen!2sin"
       },
       {
         "id":73,
@@ -1122,7 +1193,8 @@
           "Transport"
         ],
         "image": "https://historiceuropeancastles.com/wp-content/uploads/2020/05/San-Marino-Castle-1024x682.webp",
-        "location":"Ireland"
+        "location":"Ireland",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436577.149534294!2d-10.909321561938956!3d53.38853419219043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485ba451e5feda1d%3A0x7b09da730be71c29!2sGleninagh%20Castle!5e0!3m2!1sen!2sin!4v1724177205810!5m2!1sen!2sin" 
       },
       {
         "id":74,
@@ -1138,7 +1210,8 @@
           "Transport"
         ],
         "image": "https://media.cntraveller.com/photos/611bf6d2a86777b29fbc5cbf/4:3/w_572,h_429,c_limit/northisland_NZ_cnt_26nov09_iStock_646.jpg",
-        "location":"New Zealand"
+        "location":"New Zealand",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6449791.904592076!2d170.3088755404709!3d-37.87637501739654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d6a145edc0e7885%3A0xca28adcb9c1c2377!2sTe%20Ika-a-M%C4%81ui%20%2F%20North%20Island!5e0!3m2!1sen!2sin!4v1724177339632!5m2!1sen!2sin"
       },
       {
         "id":75,
@@ -1154,7 +1227,8 @@
           "Transport"
         ],
         "image": "https://a.storyblok.com/f/53624/4723x2440/d864f3e813/spain-portugal-blog-hero.jpg",
-        "location":"Europe"
+        "location":"Europe",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.2937174296067!2d-3.6844300245165993!3d40.42449465516763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42288951fbe7d9%3A0xb4c28bee138ab9bb!2sMade%20For%20Spain%20and%20Portugal!5e0!3m2!1sen!2sin!4v1724177489355!5m2!1sen!2sin" 
       },
       {
         "id":76,
@@ -1170,7 +1244,8 @@
           "Permits"
         ],
         "image": "https://www.trekupindia.com/wp-content/uploads/2023/04/everest-base-camp-trek-scaled.jpg",
-        "location":"Nepal"
+        "location":"Nepal",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d903507.3716576857!2d85.42170069407986!3d27.79974474798626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e9a9327a984be7%3A0x1f5047197a212375!2sEverest%20Base%20Camp!5e0!3m2!1sen!2sin!4v1724177620658!5m2!1sen!2sin" 
       },
       {
         "id":77,
@@ -1186,7 +1261,8 @@
           "Transport"
         ],
         "image": "https://media-gadventures.global.ssl.fastly.net/media-server/dynamic/admin/content_pages/pata3.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51307684.78098238!2d-171.41648656503477!3d38.2894002476386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c54195158dff%3A0xfff0397168fe1c0d!2sPatagonia%20Travel%20Adventures!5e0!3m2!1sen!2sin!4v1724177909152!5m2!1sen!2sin" 
       },
       {
         "id":78,
@@ -1202,7 +1278,8 @@
           "Transport"
         ],
         "image": "https://www.visitrussia.com/assets/thumbnails/0d/0d0c495e4867422089fade5bc051333f.jpg",
-        "location":"Russia"
+        "location":"Russia",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2245.759763323482!2d37.57795707640702!3d55.74530299256924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54bb72b402025%3A0xa7ca6346e01605d2!2sGolden%20Ring!5e0!3m2!1sen!2sin!4v1724178102496!5m2!1sen!2sin" 
       },
       {
         "id":79,
@@ -1218,7 +1295,8 @@
           "Camel Safari"
         ],
         "image": "https://www.eliteplusmagazine.com/ckfinder/userfiles/images/Gob2ger3AAA.jpg",
-        "location":"china"
+        "location":"china",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12147280.036425488!2d95.48467449462602!3d41.98644101709346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5d85ee905286f453%3A0xa14d10f1f1086199!2sGobi%20Desert!5e0!3m2!1sen!2sin!4v1724178430559!5m2!1sen!2sin" 
       },
       {
         "id":80,
@@ -1234,7 +1312,8 @@
           "Transport"
         ],
         "image": "https://www.thetimes.com/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F5403082c-e887-41dc-8444-1e6c90b74556.jpg?crop=3764%2C2509%2C705%2C818",
-        "location":"Norway"
+        "location":"Norway",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1379.187357873702!2d18.534336577438005!3d69.77688853558809!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x45c4bfd706a5bb21%3A0xc664ae1d60e48ccd!2sNorthern%20lights%20parking!5e0!3m2!1sen!2sin!4v1724178635587!5m2!1sen!2sin" 
       },
       {
         "id":81,
@@ -1250,7 +1329,8 @@
           "Transport"
         ],
         "image": "https://d2rdhxfof4qmbb.cloudfront.net/wp-content/uploads/20180221131000/iStock-471176226-1024x683.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3849588.3990698378!2d-91.76727595978922!3d19.56891433284578!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8f59e3c0b627dc33%3A0x30ae11a8a469643!2sYucat%C3%A1n%20Peninsula!5e0!3m2!1sen!2sin!4v1724178722681!5m2!1sen!2sin" 
       },
       {
         "id":82,
@@ -1266,7 +1346,8 @@
           "Transport"
         ],
         "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/65/ce/13/caption.jpg?w=1200&h=-1&s=1",
-        "location":"Dubai"
+        "location":"Dubai",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.469663481571!2d55.27305257483708!3d25.18737913209937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6968bdb2e1a1%3A0xc9f5f0213af763f0!2sLuxury%20Tours!5e0!3m2!1sen!2sin!4v1724178849284!5m2!1sen!2sin" 
       },
       {
         "id":83,
@@ -1282,7 +1363,8 @@
           "Snorkeling Gear"
         ],
         "image": "https://delivery.gfobcontent.com/api/public/content/9c7a58aeff2d46759f4477a837eed372?v=c6ac9dd0&t=h300",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.3258873193136!2d-89.61221382551928!3d-0.900200235325006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9000e91d2f2c7e07%3A0xbf89d7f0f3208a05!2sTouring%20Galapagos!5e0!3m2!1sen!2sin!4v1724178993104!5m2!1sen!2sin"
       },
       {
         "id":84,
@@ -1298,7 +1380,8 @@
           "Guided Tours"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGD09kj7RtxR_oXlUfXl2fOqFNDtSfdqLolg&s",
-        "location":"Africa"
+        "location":"Africa",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1020333.6440204291!2d34.920780361733364!3d-2.610357730423466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x18371b2b66ae4a71%3A0x4522157b05e19306!2sTanzania%20Serengeti%20Safaris!5e0!3m2!1sen!2sin!4v1724179940723!5m2!1sen!2sin" 
       },
       {
         "id":85,
@@ -1314,7 +1397,8 @@
           "Transport"
         ],
         "image": "https://static.wanderon.in/wp-content/uploads/2024/04/polonnaruwa.jpg",
-        "location":"Sri lanka"
+        "location":"Sri lanka",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126745.10487359783!2d79.8298406825173!3d6.916345389054474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae251dd4b236769%3A0xff87a19b0dba5756!2sGreeny%20Sri%20Lanka%20Tours!5e0!3m2!1sen!2sin!4v1724179775683!5m2!1sen!2sin"
       },
       {
         "id":86,
@@ -1330,7 +1414,8 @@
           "Jazz Events"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREs62ZW-kaNYtXKdjmtwu5FkkDssF8CG0kew&s",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27655.57857077743!2d-90.11491599302549!3d29.952193832224424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a5d98e95d90d%3A0xac82a1fb9208c77!2sNew%20Orleans%20Jazz%20Market!5e0!3m2!1sen!2sin!4v1724179682562!5m2!1sen!2sin" 
       },
       {
         "id":87,
@@ -1346,7 +1431,8 @@
           "Boat Rides"
         ],
         "image": "https://d20knvk822eu5a.cloudfront.net/s3fs-public-optimized/2024-01/Aria%20Amazon%20-%20Vessel%20-%2011.jpg.webp",
-        "location":"Peru"
+        "location":"Peru",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16138226.204068923!2d-85.705442825733!3d-9.064070116614792!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91ea1aa3ae1b2b2d%3A0xc22386c73527cba3!2sAmazon%20Wildlife%20Adventures!5e0!3m2!1sen!2sin!4v1724179562090!5m2!1sen!2sin" 
       },
       {
         "id":88,
@@ -1362,7 +1448,8 @@
           "Guided Tours"
         ],
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLzKx9_7aP5Ai8n2TGSQfTNpTDRSHB9TiayA&s",
-        "location":"china"
+        "location":"china",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d27127941.00503353!2d82.75432741177411!3d33.902110850079616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31508e64e5c642c1%3A0x951daa7c349f366f!2sChina!5e0!3m2!1sen!2sin!4v1724179415236!5m2!1sen!2sin"
       },
       {
         "id":89,
@@ -1378,7 +1465,8 @@
           "Wine Tasting"
         ],
         "image": "https://tangowinetours.com/wp-content/uploads/2020/03/Wine-3.jpg",
-        "location":"United states"
+        "location":"United states",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d65347426.86716975!2d-126.908563296926!3d-1.4782830440252503!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x967e091be532b2d1%3A0x590ac36a23a7db1d!2sArgentina%20Wine%20Tours!5e0!3m2!1sen!2sin!4v1724179226782!5m2!1sen!2sin"
       }
       
       
