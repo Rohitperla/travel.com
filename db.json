@@ -1,6 +1,6 @@
 {
   
-  "Indian-tours":[
+  "Tours":[
 
       { "id": 1,
         "name": "Golden Triangle Tour",
@@ -679,11 +679,8 @@
         ],
         "image": "https://t4.ftcdn.net/jpg/00/71/81/77/360_F_71817701_JYgOmVQfMvHVzXcWYopbfCcVqSfXrTE1.jpg",
         "location":"Goa"
-      }
-    ]
-    
-  ,
-  "International-tours":[
+      },
+
       { "id":46,
         "name": "Paris and French Riviera Tour",
         "description": "Explore the iconic city of Paris and the luxurious French Riviera with a 7-day tour.",
@@ -1383,7 +1380,12 @@
         "image": "https://tangowinetours.com/wp-content/uploads/2020/03/Wine-3.jpg",
         "location":"United states"
       }
+      
+      
     ]
+    
+  
+ 
 
   
 }
